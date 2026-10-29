@@ -1,5 +1,7 @@
 # Birki Zipper
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 ## Описание
 
 Небольшое настольное приложение на `tkinter` для пакетной архивации папок с бирками. Программа сканирует выбранный корневой каталог, показывает кандидатов на упаковку и помогает собрать итоговые ZIP-архивы с понятными именами.
